@@ -67,7 +67,7 @@ html body nav ul li a {
     padding: 20px 50px;
     display: flex;
     justify-content: center;
-    /* box-shadow: 0 0 5px black; */
+    
 }
 .hero-standard {
     /* position: relative;
@@ -75,7 +75,7 @@ html body nav ul li a {
     padding: 20px 50px;
     display: flex;
     justify-content: center;
-    /* box-shadow: 0 0 5px black; */
+    
 }
 
 .hero-content {
